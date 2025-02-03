@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piggy Waker</string>
+    <string name="main_function">主要功能</string>
+    <string name="history">历史记录</string>
+    <string name="settings">设置</string>
+    <string name="gugugu">还没做呢，咕咕咕</string>
+    <string name="piggy_waker">Piggy Waker</string>
+    <string name="current_value">当前值: </string>
+    <string name="running">运行中</string>
+    <string name="pause">暂停</string>
+</resources>
